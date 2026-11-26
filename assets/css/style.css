@@ -2813,7 +2813,11 @@ font-weight: 700;
 }
 
 .pic-logo{
-	width: 70px;
+	width: 100px;
+}
+
+.site-img{
+	width: 100px;
 }
 
 
